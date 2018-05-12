@@ -1,5 +1,8 @@
 _repo: The-Life-and-Most-Surprising-Adventures-of-Robinson-Crusoe-of-York-Mariner--1801-_11866
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11866#The-Life-and-Most-Surprising-Adventures-of-Robinson-Crusoe-of-York-Mariner--1801-
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
